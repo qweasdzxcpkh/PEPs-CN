@@ -20,9 +20,9 @@ PEP|    0
 --- | ---
 题目|   Python增强建议书(PEPs)目录
 最后修改时间|   2019-03-12
-作者| python-dev <python-dev at python.org>
+作者| python-dev \<python-dev at python.org\>
 状态    | 进行中
-类型    | Informational
+类型    | 资讯(Informational)
 创建时间    | 2000-07-13
     
     
@@ -65,25 +65,36 @@ PEP|    0
 
 ### 讨论中的PEPs(社区正在讨论)
 
+PEP |  题目 | 作者(们) | 译文 | 译者
+--- | --- | --- | --- | ---
+[801](https://www.python.org/dev/peps/pep-0801) | 保留 |Warsaw | [801](./PEPs/Reserved/PEP801 -- Reserved.md) | Vern
+
+
 ### 完成了的PEPs(开发完成、接口稳定)
 
 ### 延期的PEPs(需要进一步讨论)
 
 ### 被遗弃、否决的PEPs
 
+
 ## 索引排列的PEPs
+
+PEP |  题目 | 作者(们) | 译文 | 译者
+--- | --- | --- | --- | ---
+[801](https://www.python.org/dev/peps/pep-0801) | 保留 |Warsaw | [801](./PEPs/Reserved/PEP801 -- Reserved.md) | Vern
+
 
 ## 保留的PEPs号码
 
 
-PEP |  PEP Title | PEP Author(s) | 译文 | 译者
+PEP |  题目 | 作者(们) | 译文 | 译者
 --- | --- | --- | --- | ---
-[801](https://www.python.org/dev/peps/pep-0801) | RESERVED |Warsaw
+[801](https://www.python.org/dev/peps/pep-0801) | 保留 |Warsaw | [801](./PEPs/Reserved/PEP801 -- Reserved.md) | Vern
 
 
 ## PEP的类型
 
-I - 消息相关的PEP(Informational PEP)
+I - 资讯类型的PEP(Informational PEP)
 
 P - 流程相关的PEP(Process PEP)
 
