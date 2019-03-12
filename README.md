@@ -94,9 +94,9 @@ PEP |  Title | author(s) | 译文 | 题目 |译者
 
 I - 资讯类型的PEP(Informational PEP)
 
-P - 流程相关的PEP(Process PEP)
+P - --(Process PEP)
 
-S - 不知道改怎么翻..(Standards Track PEP)
+S - --(Standards Track PEP)
 
 ## PEP状态
 
