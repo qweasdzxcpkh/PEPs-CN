@@ -17,7 +17,7 @@ Python版本|3.8
 ---
 
 
-Contents:
+Contents
 
 * [摘要](#%E6%91%98%E8%A6%81)
 * [发布计划的主导人和参与人员](#%E5%8F%91%E5%B8%83%E8%AE%A1%E5%88%92%E7%9A%84%E4%B8%BB%E5%AF%BC%E4%BA%BA%E5%92%8C%E5%8F%82%E4%B8%8E%E4%BA%BA%E5%91%98)
@@ -25,7 +25,7 @@ Contents:
 * [发布计划](#%E5%8F%91%E5%B8%83%E8%AE%A1%E5%88%92)
     * [3.8.0 时间表](#380-%E6%97%B6%E9%97%B4%E8%A1%A8)
 * [3.8版本的新特性](#38%E7%89%88%E6%9C%AC%E7%9A%84%E6%96%B0%E7%89%B9%E6%80%A7)
-
+* [版权](#%E7%89%88%E6%9D%83)
 
 
 
@@ -73,3 +73,11 @@ Mac installers: Ned Deily
 3.8中已经实施的的变更(截至2019/01/24):
 
 (进行中) [PEP 572](https://www.python.org/dev/peps/pep-0572), Assignment Expressions
+
+
+
+## 版权
+
+公共领域
+
+来源: https://github.com/python/peps/blob/master/pep-0569.txt
