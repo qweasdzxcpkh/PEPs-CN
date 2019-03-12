@@ -8,7 +8,7 @@ PEP|569
 --|--
 题目|Python 3.8 发布计划
 作者|Łukasz Langa \<lukasz at python.org\>
-状态|草稿(Draft)
+状态|起稿(Draft)
 类型|资讯类(Informational)
 创建时间|018-01-27
 Python版本|3.8
