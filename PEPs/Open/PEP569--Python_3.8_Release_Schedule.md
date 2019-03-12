@@ -36,8 +36,11 @@ Contents
 
 ## 发布计划的主导人和参与人员
 3.8版本发布主导人: Łukasz Langa
+
 Windows installers: Steve Dower
+
 Mac installers: Ned Deily
+
 文档: Julien Palard
 
 
