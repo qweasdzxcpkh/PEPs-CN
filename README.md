@@ -119,7 +119,14 @@ W - 被撤回的提案(Withdrawn proposal)
 
 ## PEP作者/拥有者
 
+请查阅 [PEP0](https://www.python.org/dev/peps/#authors-owners)
+
+
+
 ## 参考
 
-
+index | detail
+--- | ---
+[1] | 	[PEP 1](https://www.python.org/dev/peps/pep-0001): PEP Purpose and Guidelines
+[2] | View PEP history online: https://github.com/python/peps
 
