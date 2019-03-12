@@ -61,16 +61,16 @@ PEP|    0
 
 ### 临时的PEPs(暂时通过、接口还有可能会改变)
 
-### 已经通过的PEPs(已经通过、但是还没有开始实施)
+### 已经通过的PEPs(已经通过、但是可能还没有开始实施)
 
-### 讨论中的PEPs(社区正在讨论)
+### 讨论中的PEPs(考虑、讨论中，未决定好)
 
 PEP 类型 | PEP |  Title | author(s) | 译文 | 题目 |译者
 --- | --- | --- | --- | --- | --- | ---
 I|[801](https://www.python.org/dev/peps/pep-0801) | RESERVED |Warsaw |[801](./PEPs/Reserved/PEP801--Reserved.md)| 保留  | Vern
 
 
-### 完成了的PEPs(开发完成、接口稳定)
+### 完成了的PEPs(开发完成了的、接口稳定)
 
 ### 延期的PEPs(需要进一步讨论)
 
