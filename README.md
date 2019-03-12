@@ -50,6 +50,7 @@ PEP|    0
 
 ## 介绍
 
+<a name="anchor1"></a>anchor1
 
 ## PEPs分类
 
@@ -125,6 +126,6 @@ W - 被撤回的提案(Withdrawn proposal)
 
 index | detail
 --- | ---
-[1] | 	[PEP 1](https://www.python.org/dev/peps/pep-0001): PEP Purpose and Guidelines
+[1](#anchor1) | 	[PEP 1](https://www.python.org/dev/peps/pep-0001): PEP Purpose and Guidelines
 [2] | View PEP history online: https://github.com/python/peps
 
