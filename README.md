@@ -50,7 +50,7 @@ PEP|    0
 
 ## 介绍
 
-<a name="anchor1-1"></a>[[1]](#anchor1-2)
+<a name="anchor1-1"></a>[[1]](#anchor1-2) <a name="anchor2-1"></a>[[2]](#anchor2-2)
 
 ## PEPs分类
 
@@ -127,5 +127,5 @@ W - 被撤回的提案(Withdrawn proposal)
 index | detail
 --- | ---
 <a name="anchor1-2"></a>[[1]](#anchor1-1) | 	[PEP 1](https://www.python.org/dev/peps/pep-0001): PEP Purpose and Guidelines
-[2] | View PEP history online: https://github.com/python/peps
+<a name="anchor2-2"></a>[[2]](#anchor2-1) | View PEP history online: https://github.com/python/peps
 
