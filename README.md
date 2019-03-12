@@ -68,9 +68,9 @@ PEP|    0
 
 PEP 类型 | PEP |  Title | author(s) | 译文 | 题目 |译者
 --- | --- | --- | --- | --- | --- | ---
-
-I|[569](https://www.python.org/dev/peps/pep-0569/)|Python 3.8 Release Schedule|Langa|[569](./PEPs/Open/PEP569--Python_3.8_Release_Schedule.md)|Python 3.8 发布计划|Vern
+I|[569](https://www.python.org/dev/peps/pep-0569/) | Python 3.8 Release Schedule |Langa |[569](./PEPs/Open/PEP569--Python_3.8_Release_Schedule.md)| Python 3.8 发布计划  | Vern
 I|[801](https://www.python.org/dev/peps/pep-0801) | RESERVED |Warsaw |[801](./PEPs/Reserved/PEP801--Reserved.md)| 保留  | Vern
+
 
 
 ### 完成了的PEPs(开发完成了的、接口稳定)
@@ -84,7 +84,6 @@ I|[801](https://www.python.org/dev/peps/pep-0801) | RESERVED |Warsaw |[801](./PE
 
 PEP 类型 | PEP |  Title | author(s) | 译文 | 题目 |译者
 --- | --- | --- | --- | --- | --- | ---
-
 I|[801](https://www.python.org/dev/peps/pep-0801) | RESERVED |Warsaw |[801](./PEPs/Reserved/PEP801--Reserved.md)| 保留  | Vern
 
 
