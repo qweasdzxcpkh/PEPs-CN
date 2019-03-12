@@ -67,7 +67,7 @@ PEP|    0
 
 PEP |  题目 | 作者(们) | 译文 | 译者
 --- | --- | --- | --- | ---
-[801](https://www.python.org/dev/peps/pep-0801) | 保留 |Warsaw | [801](./PEPs/Reserved/PEP801 -- Reserved.md) | Vern
+[801](https://www.python.org/dev/peps/pep-0801) | 保留 |Warsaw | [801](./PEPs/Reserved/PEP801--Reserved.md) | Vern
 
 
 ### 完成了的PEPs(开发完成、接口稳定)
@@ -81,7 +81,7 @@ PEP |  题目 | 作者(们) | 译文 | 译者
 
 PEP |  题目 | 作者(们) | 译文 | 译者
 --- | --- | --- | --- | ---
-[801](https://www.python.org/dev/peps/pep-0801) | 保留 |Warsaw | [801](./PEPs/Reserved/PEP801 -- Reserved.md) | Vern
+[801](https://www.python.org/dev/peps/pep-0801) | 保留 |Warsaw | [801](./PEPs/Reserved/PEP801--Reserved.md) | Vern
 
 
 ## 保留的PEPs号码
@@ -89,7 +89,7 @@ PEP |  题目 | 作者(们) | 译文 | 译者
 
 PEP |  题目 | 作者(们) | 译文 | 译者
 --- | --- | --- | --- | ---
-[801](https://www.python.org/dev/peps/pep-0801) | 保留 |Warsaw | [801](./PEPs/Reserved/PEP801 -- Reserved.md) | Vern
+[801](https://www.python.org/dev/peps/pep-0801) | 保留 |Warsaw | [801](./PEPs/Reserved/PEP801--Reserved.md) | Vern
 
 
 ## PEP的类型
